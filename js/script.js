@@ -21,7 +21,7 @@
 					starty: 3
 				},
 				{
-					clue: "Nine down is one of these.",
+					clue: "Ten down is one of these.",
 					answer: "reindeer",
 					position: 6,
 					orientation: "across",
