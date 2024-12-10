@@ -85,7 +85,7 @@
 					starty: 1
 				},
 				{
-					clue: "In modern society, should we replace all of these with carn horns in the classic Christmas song lyrics?",
+					clue: "In modern society, should we replace all of these with car horns in the classic Christmas song lyrics?",
 					answer: "sleighbells",
 					position: 2,
 					orientation: "down",
